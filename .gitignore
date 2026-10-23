@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -23,6 +24,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 =======
+=======
+>>>>>>> 43748d013fe34e9f70cb0178ea035a522292a1d7
 # Logs
 logs
 *.log
@@ -172,4 +175,7 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+<<<<<<< HEAD
 >>>>>>> 922aea4e19ff405b66de90e8924da6de292c14f1
+=======
+>>>>>>> 43748d013fe34e9f70cb0178ea035a522292a1d7
